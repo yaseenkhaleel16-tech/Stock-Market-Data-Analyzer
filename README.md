@@ -76,10 +76,12 @@ If Yahoo Finance cannot be reached, the program uses `data/sample_stock.csv`. Th
 ## Important
 This is an educational project for learning Python and historical data analysis. It is not financial advice and should not be used alone to make investment decisions.
 
-
-
-<img width="1820" height="753" alt="picture 34" src="https://github.com/user-attachments/assets/b4f9f8b7-3bb7-4ea0-9be8-58a7589c1cf0" />
-<img width="1821" height="535" alt="picture 33" src="https://github.com/user-attachments/assets/d825f128-402a-4560-96b8-ab5ec0bedb12" />
-<img width="1853" height="518" alt="picture 32" src="https://github.com/user-attachments/assets/e15343fe-84cf-43fb-b8b6-5438b61d6332" />
 <img width="1840" height="857" alt="picture 31" src="https://github.com/user-attachments/assets/316e2326-2b47-4620-8d67-10f4b0266269" />
+<img width="1853" height="518" alt="picture 32" src="https://github.com/user-attachments/assets/e15343fe-84cf-43fb-b8b6-5438b61d6332" />
+<img width="1821" height="535" alt="picture 33" src="https://github.com/user-attachments/assets/d825f128-402a-4560-96b8-ab5ec0bedb12" />
+<img width="1820" height="753" alt="picture 34" src="https://github.com/user-attachments/assets/b4f9f8b7-3bb7-4ea0-9be8-58a7589c1cf0" />
+
+
+
+
 
